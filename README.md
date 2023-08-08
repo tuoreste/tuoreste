@@ -7,7 +7,7 @@
 		</div>
 		<div style="text-align: center">
 			<p>
-			
+
 				Behold Oreste's name in the world of wise seekers.
 				He is a soul decorated with the flame of wisdom and a passion for coding.
 				He enthusiastically embraces the complex dance of numbers.
@@ -31,6 +31,7 @@
 				an admirer of coding and the search for wisdom.
 				Oreste's quest continues, his soul yearning for all time,
 				with every line of code and every lesson learnt.
+				
 			</p>
 		</div>
 	</body>
