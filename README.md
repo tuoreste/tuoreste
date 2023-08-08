@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<div>
-			<img  src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt = "image" style = "max-width = 50%;">
+		<div align = "center">
+			<img  src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt = "image" style = "max-width = 100%;">
 		</div>
 
 				Behold Oreste's name in the world of wise seekers.
