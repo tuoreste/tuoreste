@@ -1,8 +1,8 @@
 # Me
 
-<p align="center">
-![](https://github.com/tuoreste/Me/blob/main/giphy.gif)
-</p>
+<div style="text-align: center;">
+    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="Centered GIF">
+</div>
 
 <p align="center">
 
