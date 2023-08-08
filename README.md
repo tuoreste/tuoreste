@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<div style="width:10px;">
-			<img  src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt = "image">
+		<div>
+			<img style="width:10px;" src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt = "image">
 		</div>
 		<div class="content">
 				
