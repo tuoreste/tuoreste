@@ -1,8 +1,8 @@
 # Me
 <!DOCTYPE html>
 <html>
-	<div style="text-align: center;">
-		<img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="Centered and Resized GIF" width="500">
+	<div style="align: center">
+		<img src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
 	</div>
 
 	<p align="center">
