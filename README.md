@@ -3,11 +3,6 @@
 <html>
 	<body>
 		<div>
-		<style>
-		h1{
-			text-align: center;
-		}
-		</style>
 			<img class="h1"  src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
 		</div>
 
