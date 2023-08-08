@@ -3,13 +3,12 @@
 <html>
 	<body>
 		<style>
-			h1{
-				text-align: center;
-				padding : 50px;
-			   }
+		h1{
+			text-align: center;
+			padding : 50px;
+		}
 		</style>
-		<div>
-			<img class= "h1" src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
+			<img class="h1"  src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
 		</div>
 
 		Behold Oreste's name in the world of wise seekers.
