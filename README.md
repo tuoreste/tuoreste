@@ -5,7 +5,7 @@
 		<div style="text-align: center;">
 			<img src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
 		</div>
-		<div style="text-align: center;">
+		<div style="text-align: center">
 			<p>
 				Behold Oreste's name in the world of wise seekers.
 				He is a soul decorated with the flame of wisdom and a passion for coding.
