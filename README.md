@@ -5,7 +5,7 @@
 		<style>
 			.image{
 				width:50px;
-				heigth:50px;
+				height:50px;
 			}
 		</style>
 		<div align = "center" class="image">
