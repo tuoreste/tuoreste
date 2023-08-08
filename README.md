@@ -2,7 +2,12 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<div>
+		<style>
+			h1{
+				text-align: center;
+			   }
+		</style>
+		<div class= "h1">
 			<img src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
 		</div>
 
