@@ -3,12 +3,6 @@
 <html>
 	<body>
 		<div>
-		<style>
-		h1{
-			text-align: center;
-			padding : 50px;
-		}
-		</style>
 			<img class="h1"  src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
 		</div>
 
