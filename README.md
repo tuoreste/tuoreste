@@ -1,7 +1,9 @@
 # Me
 
 <p align="center">
+
 ![](https://github.com/tuoreste/Me/blob/main/giphy.gif)
+
 </p>
 
 <p align="center">
