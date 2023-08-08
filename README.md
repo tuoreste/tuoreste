@@ -2,13 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<style>
-			.image{
-				width:50px;
-				height:50px;
-			}
-		</style>
-		<div align = "center" class="image">
+		<div style="width:10px;">
 			<img  src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt = "image">
 		</div>
 		<div class="content">
