@@ -1,7 +1,7 @@
 # Me
 
 <div style="text-align: center;">
-    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="Centered GIF">
+    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="Centered and Resized GIF" width="200">
 </div>
 
 <p align="center">
