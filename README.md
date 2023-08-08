@@ -8,8 +8,8 @@
 				padding : 50px;
 			   }
 		</style>
-		<div class= "h1">
-			<img src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
+		<div>
+			<img class= "h1" src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
 		</div>
 
 		Behold Oreste's name in the world of wise seekers.
