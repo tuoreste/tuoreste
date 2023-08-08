@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<div align = "center" width = "500%">
+		<div align = "center">
 			<img  src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt = "image">
 		</div>
 
