@@ -5,6 +5,7 @@
 		<style>
 			h1{
 				text-align: center;
+				padding : 50px;
 			   }
 		</style>
 		<div class= "h1">
@@ -34,5 +35,6 @@
 		an admirer of coding and the search for wisdom.
 		Oreste's quest continues, his soul yearning for all time,
 		with every line of code and every lesson learnt.
-
+  
+</body>
 </html>
