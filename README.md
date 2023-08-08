@@ -3,7 +3,7 @@
 <html>
 	<body>
 		<div align = "center">
-			<img  src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt = "image" style = "max-width = 50px;">
+			<img  src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt = "image" style = "width = 50px;">
 		</div>
 
 				Behold Oreste's name in the world of wise seekers.
