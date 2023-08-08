@@ -1,4 +1,5 @@
 # Me
+![](https://github.com/tuoreste/Me/blob/main/giphy.gif)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
    <h2>About</h2>
@@ -21,9 +22,7 @@
 		But behold, a language awaits in the distance, calling to be claimed, mastered, and praised. Germany's grace beckons.
 		Oreste, the seeker, unfolds the fabric of the world in the embrace of the languages, each tongue a star to pursue.
 
-		He dances joyfully as he journeys through knowledge.
-		an admirer of coding and the search for wisdom.
-		Oreste's quest continues, his soul yearning for all time,
-		with every line of code and every lesson learnt.
-   </strong></a>
-</div>
+He dances joyfully as he journeys through knowledge.
+an admirer of coding and the search for wisdom.
+Oreste's quest continues, his soul yearning for all time,
+with every line of code and every lesson learnt.
