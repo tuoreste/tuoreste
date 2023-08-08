@@ -6,15 +6,15 @@
 
 <p align="center">
 
-	He now adopts a stand within the digital world,
-	learning the craft of programming, a dance with codes' advancement.
-	The calendar becomes into his companion as Codingame becomes his muse,
-	days and nights entwine, and they are bound together in time's embrace.
-
 	Behold Oreste's name in the world of wise seekers.
 	He is a soul decorated with the flame of wisdom and a passion for coding.
 	He enthusiastically embraces the complex dance of numbers.
 	Chance of an actuarial science bachelor.
+ 
+	He now adopts a stand within the digital world,
+	learning the craft of programming, a dance with codes' advancement.
+	The calendar becomes into his companion as Codingame becomes his muse,
+	days and nights entwine, and they are bound together in time's embrace.
  
 	His thoughts are communicated through the vastness of English from the Kinyarwanda countries,
 	where tales are shared. His heart begins to beat in Kiswahili,
