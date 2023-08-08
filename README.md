@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<div style="text-align: center; padding : 10">
+		<div style="text-align: center; padding : 50px">
 			<img src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
 		</div>
 		<div style="text-align: center">
