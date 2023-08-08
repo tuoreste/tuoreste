@@ -1,5 +1,8 @@
 # Me
+
+<p align="center">
 ![](https://github.com/tuoreste/Me/blob/main/giphy.gif)
+</p>
 
 <p align="center">
 	Behold Oreste's name in the world of wise seekers.
