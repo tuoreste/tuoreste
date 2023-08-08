@@ -1,4 +1,5 @@
 # Me
+![](https://github.com/tuoreste/Me/blob/main/giphy.gif)
 
 Behold Oreste's name in the world of wise seekers.
 He is a soul decorated with the flame of wisdom and a passion for coding.
