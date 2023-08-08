@@ -31,7 +31,7 @@
 				an admirer of coding and the search for wisdom.
 				Oreste's quest continues, his soul yearning for all time,
 				with every line of code and every lesson learnt.
-				
+
 			</p>
 		</div>
 	</body>
