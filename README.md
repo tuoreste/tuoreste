@@ -2,10 +2,15 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<div style="text-align: center; padding : 50px">
-			<img src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
+		<div>
+		<style>
+		h1{
+			text-align: center;
+			padding : 50px;
+		}
+		</style>
+			<img class="h1"  src="https://github.com/tuoreste/Me/blob/main/giphy.gif">
 		</div>
-		<div style="text-align: center">
 
 		Behold Oreste's name in the world of wise seekers.
 		He is a soul decorated with the flame of wisdom and a passion for coding.
