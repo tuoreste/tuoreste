@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html>
 	<body>
-<div style="text-align: center;">
-    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="image" style="width: 200px; margin-left: 20%;">
+<div>
+    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="image" style="width: 200px; margin-left: 200px;">
 </div>
 	</body>
 </html>	
