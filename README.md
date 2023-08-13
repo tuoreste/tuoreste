@@ -6,7 +6,7 @@
 		    <img src="https://github.com/tuoreste/tuoreste/blob/03cf09f272e6487c6376e05f60e389b404c2a491/giphy.gif" alt="image" style="width: 250px; margin-right: 50%;">
 		</div>
 	</body>
-</html>
+
 
 	Behold Oreste's name in the world of wise seekers.
 	He is a soul decorated with the flame of wisdom and a passion for coding.
@@ -31,3 +31,5 @@
 	an admirer of coding and the search for wisdom.
 	Oreste's quest continues, his soul yearning for all time,
 	with every line of code and every lesson learnt.
+
+</html>
