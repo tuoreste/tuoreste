@@ -8,7 +8,7 @@
 	</body>
 
 
-	Behold Oreste's name in the world of wise seekers.
+	<b>Behold</b> Oreste's name in the world of wise seekers.
 	He is a soul decorated with the flame of wisdom and a passion for coding.
 	He enthusiastically embraces the complex dance of numbers.
 	Chance of an actuarial science bachelor.
