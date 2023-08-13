@@ -1,15 +1,5 @@
 # Me
-<!DOCTYPE html>
-<html>
-	<body>
-		<div style="align=center";>
-		    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="image" style="width: 200px; margin-right: 50%;">
-		</div>
-		<div style="display: flex; justify-content: center; margin-right: 50%;">
-    			<img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="image" style="width: 200px;">
-		</div>
-	</body>
-</html>	
+[![Alt text](https://github.com/tuoreste/Me/blob/main/giphy.gif)](https://github.com/tuoreste/Me/blob/main/giphy.gif)
 
 		Behold Oreste's name in the world of wise seekers.
 		He is a soul decorated with the flame of wisdom and a passion for coding.
