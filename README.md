@@ -1,8 +1,12 @@
 # Me
+<!DOCTYPE html>
+<html>
+	<body>
 <div align="center;">
 	<img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt = "image" style="width:200px;">
 </div>
-		
+	</body>
+</html>	
 		Behold Oreste's name in the world of wise seekers.
 		He is a soul decorated with the flame of wisdom and a passion for coding.
 		He enthusiastically embraces the complex dance of numbers.
@@ -26,4 +30,3 @@
 		an admirer of coding and the search for wisdom.
 		Oreste's quest continues, his soul yearning for all time,
 		with every line of code and every lesson learnt.
-
