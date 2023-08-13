@@ -5,7 +5,7 @@
 		<div style="align=center";>
 		    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="image" style="width: 200px; margin-right: 50%;">
 		</div>
-		<div style="display: flex; justify-content: center, margin-left: 50%;">
+		<div style="display: flex; justify-content: center; margin-left: 50%;">
 		    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="image" style="width: 200px;">
 		</div>
 	</body>
