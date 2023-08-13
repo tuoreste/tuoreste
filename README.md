@@ -4,9 +4,9 @@
 	<body>
 		<div style="align=center";>
 		    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="image" style="width: 200px; margin-right: 50%;">
-		</div>
+		//</div>
 		<div style="display: flex; justify-content: center;">
-		    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="image" style="width: 200px; margin-left: 20%;">
+		    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="image" style="width: 200px; margin-left: 50%;">
 		</div>
 
 	</body>
