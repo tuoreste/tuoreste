@@ -13,19 +13,19 @@
 	He enthusiastically embraces the complex dance of numbers.
 	Chance of an actuarial science bachelor.
 	
-	&nbsp;He now adopts a stand within the digital world,
-	&nbsp;learning the craft of programming, a dance with codes' advancement.
-	&nbsp;The calendar becomes into his companion as Codingame becomes his muse,
-	&nbsp;days and nights entwine, and they are bound together in time's embrace.
+	&nbsp; He now adopts a stand within the digital world,
+	&nbsp; learning the craft of programming, a dance with codes' advancement.
+	&nbsp; The calendar becomes into his companion as Codingame becomes his muse,
+	&nbsp; days and nights entwine, and they are bound together in time's embrace.
 
 	His thoughts are communicated through the vastness of English from the Kinyarwanda countries,
 	where tales are shared. His heart begins to beat in Kiswahili,
 	and a lighthearted joke in elementary French makes him smile.
 
-	&nbsp;But behold, a language awaits in the distance,
-	&nbsp;calling to be claimed, mastered, and praised. Germany's grace beckons.
-	&nbsp;Oreste, the seeker, unfolds the fabric of the world in the embrace of the languages,
-	&nbsp;each tongue a star to pursue.
+	&nbsp; But behold, a language awaits in the distance,
+	&nbsp; calling to be claimed, mastered, and praised. Germany's grace beckons.
+	&nbsp; Oreste, the seeker, unfolds the fabric of the world in the embrace of the languages,
+	&nbsp; each tongue a star to pursue.
 
 	He dances joyfully as he journeys through knowledge.
 	an admirer of coding and the search for wisdom.
