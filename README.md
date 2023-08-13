@@ -16,7 +16,7 @@
 	&emsp; He now adopts a stand within the digital world,
 	&nbsp; learning the craft of programming, a dance with codes' advancement.
 	&nbsp; The calendar becomes into his companion as Codingame becomes his muse,
-	&nbsp; days and nights entwine, and they are bound together in time's embrace.
+	nbsp; days and nights entwine, and they are bound together in time's embrace.
 
 	His thoughts are communicated through the vastness of English from the Kinyarwanda countries,
 	where tales are shared. His heart begins to beat in Kiswahili,
