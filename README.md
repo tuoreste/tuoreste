@@ -13,7 +13,7 @@
 	He enthusiastically embraces the complex dance of numbers.
 	Chance of an actuarial science bachelor.
 	
-	&emsp; He now adopts a stand within the digital world,
+		 He now adopts a stand within the digital world,
 	&nbsp; learning the craft of programming, a dance with codes' advancement.
 	&nbsp; The calendar becomes into his companion as Codingame becomes his muse,
 	nbsp; days and nights entwine, and they are bound together in time's embrace.
