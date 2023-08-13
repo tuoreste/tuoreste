@@ -3,7 +3,7 @@
 <html>
 	<body>
 		<div align= "center";>
-		    <img src="https://github.com/tuoreste/tuoreste/blob/03cf09f272e6487c6376e05f60e389b404c2a491/giphy.gif" alt="image" style="width: 200px; margin-right: 50%;">
+		    <img src="https://github.com/tuoreste/tuoreste/blob/03cf09f272e6487c6376e05f60e389b404c2a491/giphy.gif" alt="image" style="width: 250px; margin-right: 50%;">
 		</div>
 	</body>
 </html>
