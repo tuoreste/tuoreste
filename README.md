@@ -3,7 +3,7 @@
 <html>
 	<body>
 <div style="align=center";>
-    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="image" style="width: 200px; margin-left: 200px;">
+    <img src="https://github.com/tuoreste/Me/blob/main/giphy.gif" alt="image" style="width: 100px; margin-left: 200px;">
 </div>
 	</body>
 </html>	
