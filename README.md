@@ -1,30 +1,22 @@
 # Me
 
-Hey there! 👋 I'm [Your Name], a seasoned software developer with a rich background in various programming languages. Take a look at some of the languages I've worked with in the past:
+Hey there! 👋 I'm [Oreste], a seasoned software developer with a rich background in various programming languages. Take a look at some of the languages I've worked with in the past:
 
 ## Languages I've Used
 
-- **Java:** Developed [Project Name](link-to-repository) where I leveraged Java for [specific functionalities or projects goals].
+- **C:** Developed [Project Name](link-to-repository) utilizing C for [specific project features or goals].
 
 - **Python:** Contributed to [Project Name](link-to-repository) using Python, focusing on [describe your role and contributions].
 
-- **JavaScript:** Built and maintained [Project Name](link-to-repository) with a strong emphasis on client-side scripting and interactivity.
-
-- **C#:** Developed [Project Name](link-to-repository) utilizing C# for [specific project features or goals].
-
-- **HTML/CSS:** Created responsive and visually appealing web interfaces for projects like [Project Name](link-to-repository).
-
-- **SQL:** Managed database systems for various projects, including [Project Name](link-to-repository).
-
-- **[Any Other Language]:** Describe your experience with any additional languages you've worked with and mention relevant projects.
+- **R:** University student level in R proogramming.
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuoreste&show_icons=true&theme=radical)](https://github.com/tuoreste)
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- LinkedIn: [Your LinkedIn Profile]([link-to-linkedin](http://linkedin.com/in/oreste-tuyishimire-a39770190))
 - Twitter: [Your Twitter Profile](link-to-twitter)
 - Portfolio/Website: [Your Portfolio/Website](link-to-portfolio)
 
