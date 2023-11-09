@@ -8,7 +8,7 @@ Hey there! 👋 I'm [Oreste], a seasoned software developer with a rich backgrou
 
 - **Python:** Contributed to [Project Name](link-to-repository) using Python, focusing on [describe your role and contributions].
 
-- **R:** University student level in R proogramming.
+- **R:** University student level in R Programming.
 
 ## GitHub Stats
 
@@ -16,7 +16,7 @@ Hey there! 👋 I'm [Oreste], a seasoned software developer with a rich backgrou
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile]([link-to-linkedin](http://linkedin.com/in/oreste-tuyishimire-a39770190))
+- LinkedIn: [Your LinkedIn Profile](http://linkedin.com/in/oreste-tuyishimire-a39770190)
 - Twitter: [Your Twitter Profile](link-to-twitter)
 - Portfolio/Website: [Your Portfolio/Website](link-to-portfolio)
 
