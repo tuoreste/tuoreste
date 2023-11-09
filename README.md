@@ -1,6 +1,6 @@
 # Me
 
-Hey there! 👋 I'm [Oreste], a seasoned software developer with a rich background in various programming languages. Take a look at some of the languages I've worked with in the past:
+Hey there! 👋 I'm [Oreste], software developer with a rich background in various programming languages. Take a look at some of the languages I've worked with in the past:
 
 ## Languages I've Used
 
@@ -16,7 +16,7 @@ Hey there! 👋 I'm [Oreste], a seasoned software developer with a rich backgrou
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile](http://linkedin.com/in/oreste-tuyishimire-a39770190)
+- LinkedIn: [Oreste TUYISHIMIRE](http://linkedin.com/in/oreste-tuyishimire-a39770190)
 - Twitter: [Your Twitter Profile](link-to-twitter)
 - Portfolio/Website: [Your Portfolio/Website](link-to-portfolio)
 
