@@ -1,35 +1,31 @@
 # Me
-<!DOCTYPE html>
-<html>
-	<body>
-		<div align= "center";>
-		    <img src="https://github.com/tuoreste/tuoreste/blob/03cf09f272e6487c6376e05f60e389b404c2a491/giphy.gif" alt="image" style="width: 250px; margin-right: 50%;">
-		</div>
-	</body>
 
+Hey there! 👋 I'm [Your Name], a seasoned software developer with a rich background in various programming languages. Take a look at some of the languages I've worked with in the past:
 
-	Behold Oreste's name in the world of wise seekers.
-	He is a soul decorated with the flame of wisdom and a passion for coding.
-	He enthusiastically embraces the complex dance of numbers.
-	Chance of an actuarial science bachelor.
-	
-			He now adopts a stand within the digital world,
-			learning the craft of programming, a dance with codes' advancement.
-			The calendar becomes into his companion as Codingame becomes his muse,
-			days and nights entwine, and they are bound together in time's embrace.
+## Languages I've Used
 
-	His thoughts are communicated through the vastness of English from the Kinyarwanda countries,
-	where tales are shared. His heart begins to beat in Kiswahili,
-	and a lighthearted joke in elementary French makes him smile.
+- **Java:** Developed [Project Name](link-to-repository) where I leveraged Java for [specific functionalities or projects goals].
 
-			But behold, a language awaits in the distance,
-			calling to be claimed, mastered, and praised. Germany's grace beckons.
-			Oreste, the seeker, unfolds the fabric of the world in the embrace of the languages,
-			each tongue a star to pursue.
+- **Python:** Contributed to [Project Name](link-to-repository) using Python, focusing on [describe your role and contributions].
 
-	He dances joyfully as he journeys through knowledge.
-	an admirer of coding and the search for wisdom.
-	Oreste's quest continues, his soul yearning for all time,
-	with every line of code and every lesson learnt.
+- **JavaScript:** Built and maintained [Project Name](link-to-repository) with a strong emphasis on client-side scripting and interactivity.
 
-</html>
+- **C#:** Developed [Project Name](link-to-repository) utilizing C# for [specific project features or goals].
+
+- **HTML/CSS:** Created responsive and visually appealing web interfaces for projects like [Project Name](link-to-repository).
+
+- **SQL:** Managed database systems for various projects, including [Project Name](link-to-repository).
+
+- **[Any Other Language]:** Describe your experience with any additional languages you've worked with and mention relevant projects.
+
+## GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+
+## Connect With Me
+
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Twitter: [Your Twitter Profile](link-to-twitter)
+- Portfolio/Website: [Your Portfolio/Website](link-to-portfolio)
+
+Feel free to explore my repositories to see my diverse skill set and the kind of projects I've been involved in. If you have any questions or just want to connect, feel free to reach out!
