@@ -1,14 +1,12 @@
 # Me
 
-Hey there! 👋 I'm [Oreste], software developer with a rich background in various programming languages. Take a look at some of the languages I've worked with in the past:
+Hey there! 👋 I'm [Oreste], a software developer with a rich background in various programming languages. Take a look at some of the languages I've worked with in the past:
 
 ## Languages I've Used
 
-- **C:** Developed [Project Name](link-to-repository) utilizing C for [specific project features or goals].
-
-- **Python:** Contributed to [Project Name](link-to-repository) using Python, focusing on [describe your role and contributions].
-
-- **R:** University student level in R Programming.
+- **<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24"/> C**
+- **<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/> Python**
+- **<img src="https://img.icons8.com/color/48/000000/r.png" alt="R Icon" width="24"/> R** (University student level in R Programming)
 
 ## GitHub Stats
 
