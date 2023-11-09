@@ -8,6 +8,12 @@ Hey there! 👋 I'm [Oreste], a software developer with a rich background in var
 - **<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/> Python**
 - **<img src="https://img.icons8.com/color/48/000000/r.png" alt="R Icon" width="24"/> R** (University student level in R Programming)
 
+## Other Skills
+
+- **<img src="https://img.icons8.com/windows/32/000000/source-code.png" alt="Header Files Icon" width="24"/> Header Files**
+- **<img src="https://img.icons8.com/color/48/000000/makefile.png" alt="Makefile Icon" width="24"/> Makefile**
+- **<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" width="24"/> Docker**
+
 ## GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuoreste&show_icons=true&theme=radical)](https://github.com/tuoreste)
