@@ -11,7 +11,7 @@ Hey there! 👋 I'm [Oreste], a software developer with a rich background in var
 ## Other Skills
 
 - **<img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Header Files Icon" width="24"/> Header Files**
-- **<img src="https://img.icons8.com/ios-filled/50/000000/code-file.png" alt="Makefile Icon" width="24"/> Makefile**
+- **<img src="https://img.icons8.com/color/48/000000/script.png" alt="Makefile Icon" width="24"/> Makefile**
 - **<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" width="24"/> Docker**
 
 ## GitHub Stats
