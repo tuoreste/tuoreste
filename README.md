@@ -1,6 +1,6 @@
 # Me
 
-Hey there! 👋 I'm [Oreste], a software developer with a rich background in various programming languages. I also have solid knowledge in databases, particularly InfluxDB.
+Hey there! 👋 I'm Oreste, a software developer with a rich background in various programming languages. I also have solid knowledge in databases, particularly InfluxDB.
 
 ## Languages
 
