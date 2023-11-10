@@ -22,6 +22,6 @@ Hey there! 👋 I'm [Oreste], a software developer with a rich background in var
 
 - LinkedIn: [Oreste TUYISHIMIRE](http://linkedin.com/in/oreste-tuyishimire-a39770190)
 - Twitter: [Your Twitter Profile](link-to-twitter)
-- Portfolio/Website: [Your Portfolio/Website](link-to-portfolio)
+- Portfolio/Website: [coming soon]
 
 Feel free to explore my repositories to see my diverse skill set and the kind of projects I've been involved in. If you have any questions or just want to connect, feel free to reach out!
