@@ -12,6 +12,11 @@ Hey there! 👋 I'm Oreste, a software developer with a rich background in vario
 
 - **<img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="InfluxDB Icon" width="24"/> InfluxDB**
 
+## Design(data presentation and visualization)
+
+- **<img src="https://static-00.iconduck.com/assets.00/adobe-illustrator-icon-512x512-s1nfujvx.png" alt="Adobe_Illustrator Icon" width="24"/> Adobe_Illustrator**
+- **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" alt="Adobe_AfterEffect Icon" width="24"/> Adobe_AfterEffect**
+
 ## Other Skills
 
 - **<img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Header Files Icon" width="24"/> Header Files**
