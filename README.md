@@ -4,7 +4,7 @@ Hey there! 👋 I'm Oreste, a software developer with a rich background in vario
 
 ## Languages
 
-- <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24"/> C++
+- <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24"/>
 - <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/>
 - <img src="https://img.icons8.com/color/48/000000/r.png" alt="R Icon" width="24"/>
 
