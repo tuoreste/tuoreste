@@ -27,10 +27,6 @@ Hey there! 👋 I'm Oreste, a software developer with a rich background in vario
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuoreste&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats&bg_color=00000000)](https://github.com/tuoreste)
 
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuoreste&layout=compact&theme=radical&hide_border=true)](https://github.com/tuoreste)
-
 ## Connect With Me
 
 - LinkedIn: [Oreste TUYISHIMIRE](http://linkedin.com/in/oreste-tuyishimire-a39770190)
