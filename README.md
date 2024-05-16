@@ -12,8 +12,8 @@ Hey there! 👋 I'm Oreste, a software developer with a rich background in vario
 
 ## Cloud Technology
 
-- **<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" width="24"/> Docker **
-- **<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes Icon" width="24"/> Kubernetes **
+- **<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" width="24"/> Docker**
+- **<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes Icon" width="24"/> Kubernetes**
 
 ## Databases
 
