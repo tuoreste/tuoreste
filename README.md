@@ -14,6 +14,11 @@ Hey there! 👋 I'm Oreste, a software developer with a rich background in vario
 
 - **<img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="InfluxDB Icon" width="24"/> InfluxDB**
 
+## Cloud Technology
+
+- **<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" width="24"/> Docker (learning in progress ...)**
+- **<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes Icon" width="24"/> Kubernetes (learning in progress ...)**
+
 ## Design(data presentation and visualization)
 
 - **<img src="https://static-00.iconduck.com/assets.00/adobe-illustrator-icon-512x512-s1nfujvx.png" alt="Adobe_Illustrator Icon" width="24"/> Adobe_Illustrator**
@@ -23,7 +28,6 @@ Hey there! 👋 I'm Oreste, a software developer with a rich background in vario
 
 - **<img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Header Files Icon" width="24"/> Header Files**
 - **<img src="https://www.svgrepo.com/show/373819/makefile.svg" alt="Makefile Icon" width="24"/> Makefile**
-- **<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" width="24"/> Docker (learning in progress ...)**
 
 ## GitHub Stats
 
