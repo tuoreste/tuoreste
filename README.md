@@ -8,7 +8,7 @@ Hey there! 👋 I'm Oreste, a software developer with a rich background in vario
 - <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/> Python
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="24"/> JavaScript
 - <img src="https://img.icons8.com/color/48/000000/r.png" alt="R Icon" width="24"/> R
-- <img src="https://img.icons8.com/color/48/000000/cpp.png" alt="C++ Icon" width="24"/> C++
+- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="24"/> C++
 
 ## Databases
 
