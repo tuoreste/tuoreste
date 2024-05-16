@@ -10,14 +10,14 @@ Hey there! 👋 I'm Oreste, a software developer with a rich background in vario
 - <img src="https://img.icons8.com/color/48/000000/r.png" alt="R Icon" width="24"/> R
 - <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="24"/> C++
 
-## Databases
-
-- **<img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="InfluxDB Icon" width="24"/> InfluxDB**
-
 ## Cloud Technology
 
 - **<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" width="24"/> Docker **
 - **<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes Icon" width="24"/> Kubernetes **
+
+## Databases
+
+- **<img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="InfluxDB Icon" width="24"/> InfluxDB**
 
 ## Design(data presentation and visualization)
 
