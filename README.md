@@ -17,7 +17,7 @@ Hey there! 👋 I'm Oreste, a software developer with a rich background in vario
 
 ## Databases
 
-- **<img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="InfluxDB Icon" width="24"/> InfluxDB**
+- **<img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="InfluxDB Icon" width="24"/> InfluxDB[Learning...]**
 
 ## Design(data presentation and visualization)
 
