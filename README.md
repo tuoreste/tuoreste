@@ -4,10 +4,9 @@
 I'm Oreste, a passionate developer who loves to explore new technologies and build innovative projects. Welcome to my GitHub profile!
 
 ## About Me
-🌱 Currently learning: [technology or language you're learning]
-🔭 Working on: [your current project]
-💬 Ask me about: [your areas of expertise or interest]
-📫 How to reach me: [your email or social media handle]
+🌱 Currently learning: Kubernetes, SQL-Database
+🔭 Working on: Personal project + my portfolio
+💬 Let's talk about: c, c++, some python, data analysis, some cloud tech
 
 ## Languages
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24"/> C <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="24"/> C++ <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/> PYTHON <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="24"/> JAVASCRIPT
