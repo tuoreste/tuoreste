@@ -3,7 +3,7 @@
 Hey there! 👋 I'm Oreste, a software developer with a rich background in various programming languages. I also have knowledge in databases such as InfluxDB. Learning in progress...
 
 ## Languages
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24"/> C <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/> PYTHON <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="24"/> JAVASCRIPT <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="24"/> C++
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24"/> C <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="24"/> C++ <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/> PYTHON <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="24"/> JAVASCRIPT
 
 ## Cloud Technology
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" width="24"/> Docker, <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes Icon" width="24"/> Kubernetes
