@@ -17,7 +17,7 @@ Hey there! 👋 I'm Oreste, a software developer with a rich background in vario
 ## Other Skills
 <img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Header Files Icon" width="24"/> Header Files <img src="https://www.svgrepo.com/show/373819/makefile.svg" alt="Makefile Icon" width="24"/> Makefile
 
-## Connect With Me
+## Let's Connect!
 - LinkedIn: [Oreste TUYISHIMIRE](http://linkedin.com/in/oreste-tuyishimire-a39770190)
 - Instagram: [Oreste.Tu](http://instagram.com)
 - Portfolio/Website: [coming soon]
