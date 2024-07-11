@@ -1,6 +1,13 @@
 # Me
 
-Hey there! 👋 I'm Oreste, a software developer with a rich background in various programming languages. I also have knowledge in databases such as InfluxDB. Learning in progress...
+## Hi there 👋
+I'm Oreste, a passionate developer who loves to explore new technologies and build innovative projects. Welcome to my GitHub profile!
+
+## About Me
+🌱 Currently learning: [technology or language you're learning]
+🔭 Working on: [your current project]
+💬 Ask me about: [your areas of expertise or interest]
+📫 How to reach me: [your email or social media handle]
 
 ## Languages
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24"/> C <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="24"/> C++ <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/> PYTHON <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="24"/> JAVASCRIPT
