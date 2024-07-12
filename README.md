@@ -4,8 +4,8 @@
 I'm Oreste, a passionate developer who loves to explore new technologies and build innovative projects. Welcome to my GitHub profile!
 
 ## About Me
-🌱 Currently learning: Kubernetes, SQL-Database \n
-🔭 Working on: Personal project + my portfolio
+🌱 Currently learning: Kubernetes, SQL-Database <br>
+🔭 Working on: Personal project + my portfolio <br>
 💬 Let's talk about: c, c++, some python, data analysis, some cloud tech
 
 ## Languages
