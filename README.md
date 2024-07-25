@@ -5,7 +5,7 @@ I'm Oreste, a passionate developer who loves to explore new technologies and bui
 
 ## About Me
 🌱 Currently learning: Kubernetes, SQL-Database <br>
-🔭 Working on: Personal project + my portfolio <br>
+🔭 Working on: Webserv + Personal project + my portfolio <br>
 💬 Let's talk about: c, c++, some python, data analysis, some cloud tech
 
 ## Languages
