@@ -5,8 +5,8 @@ I'm Oreste, a passionate developer who loves to explore new technologies and bui
 
 ## About Me
 🌱 Currently learning: Kubernetes, SQL-Database <br>
-🔭 Working on: Webserv + Personal project + my portfolio <br>
-💬 Let's talk about: c, c++, some python, data analysis, some cloud tech
+🔭 Working on: Ft_transcendance + Personal project + my portfolio <br>
+💬 Let's talk about: c, c++, some python, data analysis, cloud tech kubernetes loadbalancing piping
 
 ## Languages
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24"/> C <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="24"/> C++ <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/> PYTHON <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="24"/> JAVASCRIPT
