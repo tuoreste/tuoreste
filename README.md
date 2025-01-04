@@ -15,7 +15,7 @@ I'm Oreste, a passionate developer who loves to explore new technologies and bui
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" width="24"/> Docker <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes Icon" width="24"/> Kubernetes
 
 ## Databases
-<img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="InfluxDB Icon" width="24"/> InfluxDB [Learning in progress...]
+<img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="InfluxDB Icon" width="24"/> InfluxDB
 
 ## Management/Monitoring systems
 <img src="https://github.com/tuoreste/tuoreste/blob/main/prometheusio-icon.svg" alt="Prometheus" width="24"/> Prometheus
