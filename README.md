@@ -9,7 +9,7 @@ I'm Oreste, a passionate developer who loves to explore new technologies and bui
 💬 Let's talk about: c, c++, some python, data analysis, cloud tech kubernetes loadbalancing piping
 
 ## Languages
-<img src="https://raw.githubusercontent.com/tuoreste/tuoreste/97c965f8db52f1cbdaee7856d60e1ccee3d104f5/Go-Logo_Aqua.svg" alt="Go Icon" width="32"/> Go <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24"/> C <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="24"/> C++ <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/> PYTHON <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="24"/> JAVASCRIPT
+<img src="https://raw.githubusercontent.com/tuoreste/tuoreste/97c965f8db52f1cbdaee7856d60e1ccee3d104f5/Go-Logo_Aqua.svg" alt="Go Icon" width="36"/> Go <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24"/> C <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="24"/> C++ <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/> PYTHON <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="24"/> JAVASCRIPT
 
 ## Cloud Technology
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Icon" width="24"/> Docker <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes Icon" width="24"/> Kubernetes
