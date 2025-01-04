@@ -18,11 +18,11 @@ I'm Oreste, a passionate developer who loves to explore new technologies and bui
 <img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="InfluxDB Icon" width="24"/> InfluxDB [Learning in progress...]
 
 ## Management/Monitoring systems
+<img src="https://github.com/tuoreste/tuoreste/blob/main/prometheusio-icon.svg" alt="Prometheus" width="24"/> Prometheus
+<img src="https://github.com/tuoreste/tuoreste/blob/main/grafana-icon.svg" alt="Grafana" width="24"/> Grafana
 <img src="https://github.com/tuoreste/tuoreste/blob/main/elasticsearch-logo.png" alt="Elasticsearch" width="24"/> Elasticsearch
 <img src="https://github.com/tuoreste/tuoreste/blob/main/elastic-logstash.svg" alt="Elastic-logstash" width="24"/> Elastic-logstash
 <img src="https://github.com/tuoreste/tuoreste/blob/main/elastic-kibana.svg" alt="Elastic-Kibana" width="24"/> Elastic-Kibana
-<img src="https://github.com/tuoreste/tuoreste/blob/main/prometheusio-icon.svg" alt="Prometheus" width="24"/> Prometheus
-<img src="https://github.com/tuoreste/tuoreste/blob/main/grafana-icon.svg" alt="Grafana" width="24"/> Grafana
 
 ## Design (Data Presentation and Visualization)
 <img src="https://static-00.iconduck.com/assets.00/adobe-illustrator-icon-512x512-s1nfujvx.png" alt="Adobe Illustrator Icon" width="24"/> Adobe Illustrator <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" alt="Adobe After Effects Icon" width="24"/> Adobe After Effects
