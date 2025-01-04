@@ -36,4 +36,3 @@ I'm Oreste, a passionate developer who loves to explore new technologies and bui
 - Portfolio/Website: [coming soon]
 
 Feel free to explore my repositories to see my diverse skill set and the kind of projects I've been involved in. If you have any questions or just want to connect, feel free to reach out!
-
