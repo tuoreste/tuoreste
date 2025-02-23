@@ -5,7 +5,7 @@ I'm Oreste, a passionate developer who loves to explore new technologies and bui
 
 ## About Me
 🌱 Currently learning: Kubernetes, SQL-Database <br>
-🔭 Working on: Ft_transcendance + Personal project + my portfolio <br>
+🔭 Working on: Masters of Computer Science at TUD(Technical University of Darmstadt)
 💬 Let's talk about: c, c++, some python, data analysis, cloud tech kubernetes loadbalancing piping
 
 ## Languages
