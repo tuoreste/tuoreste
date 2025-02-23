@@ -4,7 +4,7 @@
 I'm Oreste, a passionate developer who loves to explore new technologies and build innovative projects. Welcome to my GitHub profile!
 
 ## About Me
-🌱 Currently learning: Kubernetes, SQL-Database <br>
+🌱 Currently learning: n8n, SQL-Database <br>
 🔭 Working on: Masters of Computer Science at TUD(Technical University of Darmstadt)
 💬 Let's talk about: c, c++, some python, data analysis, cloud tech kubernetes loadbalancing piping
 
