@@ -4,9 +4,8 @@
 I'm Oreste, a passionate developer who loves to explore new technologies and build innovative projects. Welcome to my GitHub profile!
 
 ## About Me
-📚 At TU Darmstadt for my master's degree in distributed computing
 🌱 Currently learning: n8n, SQL-Database <br>
-🔭 Working on: Master of Computer Science at TUD(Technical University of Darmstadt) <br>
+🔭 Working on: Master of Computer Science in distributed computing at TUD(Technical University of Darmstadt) <br>
 💬 Let's talk about: c, c++, some python, data analysis, cloud tech kubernetes loadbalancing piping
 
 ## Languages
